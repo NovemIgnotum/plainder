@@ -1,0 +1,2 @@
+palindrome = "radar"
+notPalindrome = "clash"
