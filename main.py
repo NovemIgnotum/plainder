@@ -1,4 +1,4 @@
-from classes import oche
+from plainde.classes import oche
 
 def main():
     oche_instance = oche.OCHE()
